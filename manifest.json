@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-12",
+  "subjects": [
+    { "key": "history", "file": "history.json", "schemaVersion": 1, "count": 57 },
+    { "key": "geography", "file": "geography.json", "schemaVersion": 1, "count": 44 },
+    { "key": "politics", "file": "politics.json", "schemaVersion": 1, "count": 46 }
+  ]
+}
